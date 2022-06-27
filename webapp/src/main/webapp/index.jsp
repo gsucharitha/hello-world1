@@ -1,11 +1,8 @@
-<!DOCTYPE html>
 <html>
-  
-<body style="text-align: center;">
-    <h1>
-        Test Jobi!!
-	executing new job
-    </h2> 
+<body style="background-color:powderblue;">
+
+<h1>Welcome!!</h1>
+<p>This is a TestFile</p>
+
 </body>
-  
 </html>
