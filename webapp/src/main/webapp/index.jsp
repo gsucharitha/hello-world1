@@ -1,10 +1,8 @@
 <html>
-<body style="background-color:MediumSeaGreen;">
+<body style="background-color:Violet;">
 
-<b>Welcome!!</b>
-<strong>This is a TestFile</strong>
-<h1>Welcome!!!</h1>
-<p>This is a TestFile</p>
+<b>Welcome!!!</b>
+<p>This is a Test the job</p>
 
 </body>
 </html>
