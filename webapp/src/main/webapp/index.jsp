@@ -1,8 +1,8 @@
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:MediumSeaGreen;">
 
-<h1>Welcome!!</h1>
-<p>This is a TestFile</p>
+<b>Welcome!!</b>
+<strong>This is a TestFile</strong>
 
 </body>
 </html>
