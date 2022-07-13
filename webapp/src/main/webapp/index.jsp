@@ -1,7 +1,7 @@
 <html>
 <body style="background-color:Violet;">
 
-<b>Welcome!!!</b>
+<h1>Welcome!!!</h1>
 <p>This is a Test job.</p>
 
 </body>
